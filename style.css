@@ -1,10 +1,10 @@
 * {
-    margin: o;
+    margin: 0;
     padding: 0;
      box-sizing: border-box;
 } 
 body {
-background: crimson;
+background: blue;
 padding: 20px;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
